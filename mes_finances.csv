@@ -1,0 +1,76 @@
+﻿Objet;Montant ;Date;Categorie;DoG
+Coiffeur;22;26/07/2021;Bien-être;D
+BK;10.1;26/07/2021;Restauration;D
+Nourriture;2.77;26/07/2021;Quotidien;D
+Papa;300;26/07/2021;Virement;G
+Papa;700;26/07/2021;Virement;G
+Conso bar;11;26/07/2021;Bon vivant;D
+Ticket métro;2.6;26/07/2021;Transport CD;D
+BK;9.2;26/07/2021;Restauration;D
+Ticket RER;3.65;26/07/2021;Transport CD;D
+Ticket RER;3.65;27/07/2021;Transport CD;D
+Courses;38.63;27/07/2021;Quotidien;D
+Ticket métro;5.2;27/07/2021;Transport CD;D
+Forest;2.29;28/07/2021;Productivité;D
+Train Bxl Paris;68 ;28/07/2021;Transport LD;D
+Ticket métro;2.6;28/07/2021;Transport CD;D
+Ticket métro;2.6;29/07/2021;Transport CD;D
+Train Bxl Dusseldorf;16;29/07/2021;Transport LD;D
+emlyon;1699;29/07/2021;Virement;G
+Train Bxl Paris;44;29/07/2021;Transport LD;D
+BK;8.8;29/07/2021;Restauration;D
+Bar;17.85;30/07/2021;Bon vivant;D
+Courses;10.95;30/07/2021;Quotidien;D
+Abonnement 2 mois escalade + magnésie;43;02/08/2021;Sport et Loisirs;D
+Chez Léon de Bxl;22.5;02/08/2021;Restauration;D
+Frites ;4.3;02/08/2021;Restauration;D
+Courses;50;02/08/2021;Quotidien;D
+Tickets à l'unité (4+ carte + 10);24.8;03/08/2021;Transport CD;D
+Musée du chocolat;8.5;03/08/2021;Culture;D
+Salaire Wooclap Juillet;176.37;03/08/2021;Salaire;G
+Retrait bancaire;40;03/08/2021;Quotidien;D
+Train Bxl - Paris;34;04/08/2021;Transport LD;D
+Bus Paris - Dusseldorf;54.99;04/08/2021;Transport LD;D
+Ryanair Paris - Porto;229.96;04/08/2021;Transport LD;D
+Bus Dusseldorf - Paris;19.99;04/08/2021;Transport LD;D
+Supermarché;11.7;04/08/2021;Quotidien;D
+Virement papa;350;04/08/2021;Virement;G
+Bière;4.8;04/08/2021;Bon vivant;D
+TGV MAX;79;04/08/2021;Transport LD;D
+Métro Bxl;2.4;04/08/2021;Transport CD;D
+SNCF;25;05/08/2021;Transport LD;D
+Métro Bxl + Paris;10.85;06/08/2021;Transport CD;D
+Restau Dussel;18;09/08/2021;Restauration;D
+Docteur certificat;25;09/08/2021;Santé;D
+Starbucks;9.38;09/08/2021;Restauration;D
+RER;3.65;09/08/2021;Transport CD;D
+Just Eat Dussel;11.9;10/08/2021;Restauration;D
+Supermarché dussel;6.28;11/08/2021;Quotidien;D
+Boulangerie;2.5;12/08/2021;Quotidien;D
+Restau coréen;31.05;13/08/2021;Restauration;D
+Taxi aéroport;124.5;16/08/2021;Transport LD;D
+Cotisation Jazz;4.4;18/08/2021;Cotisation;D
+Taxi aéroport;150;23/08/2021;Transport LD;D
+Magnets;9;23/08/2021;Bonus;D
+B&White ;13.9;24/08/2021;Restauration;D
+Ramen;19.85;25/08/2021;Restauration;D
+Mamma Roma Pizza;10.9;26/08/2021;Restauration;D
+Frites + Bière;12.8;26/08/2021;Bon vivant;D
+Carte MOBIB;12;27/08/2021;Transport CD;D
+Mamma Roma Pizza Marie;21.8;30/08/2021;Restauration;D
+Métro Bxl;2.6;30/08/2021;Transport CD;D
+Frites;26;30/08/2021;Bon vivant;D
+Frites;7.45;01/09/2021;Restauration;D
+Salaire Wooclap Août;776.02;01/09/2021;Salaire;G
+ciné;10.1;03/09/2021;Culture;D
+Fin tgv max;15;06/09/2021;Transport LD;D
+ophtalmo;65;06/09/2021;Santé;D
+Restau Marie;43.4;06/09/2021;Restauration;D
+Tacos Marie;18.9;06/09/2021;Restauration;D
+Thermos + paille;14.09;06/09/2021;quotidien;D
+AS ADVENTURE;37.95;06/09/2021;Loisirs;D
+Courses Frichti benef;3.48;07/09/2021;Quotidien;D
+Deli sandwich;4.3;08/09/2021;Quotidien;D
+Deli sandwich;6.5;09/09/2021;Quotidien;D
+Train Bxl - Paris;69;09/09/2021;Transport LD;D
+Transports;49;09/09/2021;Spendesk Wooclap;G
